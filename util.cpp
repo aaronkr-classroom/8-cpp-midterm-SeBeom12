@@ -6,6 +6,7 @@
 #include <iostream>
 #include <vector>
 
+#include "grade.h"
 #include "analysis.h"
 #include "Student_info.h"
 
